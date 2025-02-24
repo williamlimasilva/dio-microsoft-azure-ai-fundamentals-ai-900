@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "db24f13b-ab72-4f80-9f05-2d3f852ddb88",
+  "content-length": "1372",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a woman wearing a mask sitting at a table with a laptop",
+        "confidence": 0.8499739766120911,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 576
+        }
+      },
+      {
+        "text": "a person using a laptop",
+        "confidence": 0.772520124912262,
+        "boundingBox": {
+          "x": 293,
+          "y": 383,
+          "w": 195,
+          "h": 100
+        }
+      },
+      {
+        "text": "a woman wearing a face mask",
+        "confidence": 0.8213266730308533,
+        "boundingBox": {
+          "x": 383,
+          "y": 233,
+          "w": 275,
+          "h": 336
+        }
+      },
+      {
+        "text": "a close-up of a green chair",
+        "confidence": 0.8767980933189392,
+        "boundingBox": {
+          "x": 616,
+          "y": 211,
+          "w": 164,
+          "h": 250
+        }
+      },
+      {
+        "text": "a person wearing a colorful cloth face mask",
+        "confidence": 0.7092943787574768,
+        "boundingBox": {
+          "x": 473,
+          "y": 294,
+          "w": 68,
+          "h": 56
+        }
+      },
+      {
+        "text": "a person using a laptop",
+        "confidence": 0.7642353177070618,
+        "boundingBox": {
+          "x": 288,
+          "y": 211,
+          "w": 151,
+          "h": 244
+        }
+      },
+      {
+        "text": "a woman wearing a colorful fabric face mask",
+        "confidence": 0.7733242511749268,
+        "boundingBox": {
+          "x": 433,
+          "y": 240,
+          "w": 180,
+          "h": 236
+        }
+      },
+      {
+        "text": "a close-up of a laptop on a table",
+        "confidence": 0.8473992347717285,
+        "boundingBox": {
+          "x": 115,
+          "y": 443,
+          "w": 477,
+          "h": 125
+        }
+      },
+      {
+        "text": "a woman wearing a face mask",
+        "confidence": 0.8386048078536987,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 774,
+          "h": 430
+        }
+      },
+      {
+        "text": "a woman wearing a face mask sitting at a table with a laptop",
+        "confidence": 0.8472885489463806,
+        "boundingBox": {
+          "x": 142,
+          "y": 217,
+          "w": 533,
+          "h": 346
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 864,
+    "height": 576
+  }
+}

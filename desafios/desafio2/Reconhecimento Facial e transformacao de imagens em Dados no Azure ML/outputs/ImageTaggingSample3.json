@@ -1,0 +1,56 @@
+{
+  "apim-request-id": "ba576ddd-f834-4450-a153-2c97da7038d0",
+  "content-length": "391",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1155,
+    "height": 1155
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 113,
+          "y": 712,
+          "w": 267,
+          "h": 242
+        },
+        "tags": [
+          {
+            "name": "Bicycle wheel",
+            "confidence": 0.612
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 567,
+          "y": 724,
+          "w": 267,
+          "h": 243
+        },
+        "tags": [
+          {
+            "name": "Wheel",
+            "confidence": 0.643
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 96,
+          "y": 568,
+          "w": 759,
+          "h": 410
+        },
+        "tags": [
+          {
+            "name": "bicycle",
+            "confidence": 0.91
+          }
+        ]
+      }
+    ]
+  }
+}

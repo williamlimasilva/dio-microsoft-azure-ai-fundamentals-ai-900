@@ -1,0 +1,86 @@
+{
+  "apim-request-id": "0b59da21-42e8-43f8-ba5b-b3a1750caf46",
+  "content-length": "994",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 558,
+    "height": 430
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "person",
+        "confidence": 0.9960484504699707
+      },
+      {
+        "name": "clothing",
+        "confidence": 0.9940279722213745
+      },
+      {
+        "name": "furniture",
+        "confidence": 0.984234631061554
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.9649121761322021
+      },
+      {
+        "name": "table",
+        "confidence": 0.9373990297317505
+      },
+      {
+        "name": "coffee table",
+        "confidence": 0.9168272018432617
+      },
+      {
+        "name": "human face",
+        "confidence": 0.912029504776001
+      },
+      {
+        "name": "sitting",
+        "confidence": 0.90684974193573
+      },
+      {
+        "name": "couch",
+        "confidence": 0.8981695175170898
+      },
+      {
+        "name": "laptop",
+        "confidence": 0.891694962978363
+      },
+      {
+        "name": "computer",
+        "confidence": 0.8689100742340088
+      },
+      {
+        "name": "people",
+        "confidence": 0.8672366142272949
+      },
+      {
+        "name": "man",
+        "confidence": 0.8647898435592651
+      },
+      {
+        "name": "wall",
+        "confidence": 0.837786078453064
+      },
+      {
+        "name": "group",
+        "confidence": 0.7219034433364868
+      },
+      {
+        "name": "woman",
+        "confidence": 0.6668351888656616
+      },
+      {
+        "name": "coffee",
+        "confidence": 0.6481462121009827
+      },
+      {
+        "name": "using",
+        "confidence": 0.581640362739563
+      }
+    ]
+  }
+}
